@@ -4,8 +4,8 @@ import smtplib
 
 MY_LAT = 28.658340
 MY_LONG = 77.085470
-MY_EMAIL = 'rahuldhingraajd@gmail.com'
-MY_PASS = 'xcbjwfvrioofdazw'
+MY_EMAIL = 'example_email@email.com'
+MY_PASS = '**********'
 
 
 def iss_coordinates():
